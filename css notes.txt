@@ -1,0 +1,10 @@
+1. color types
+2.background and borders
+3.box model,margin and padding
+4.float and alignments
+5.link start and button styling
+6.navigation  mine style
+7.possitioning 
+8.form styling
+9.a side visibility ,oreder and navigation margin
+10.hoover and animations in css
